@@ -1,0 +1,24 @@
+1 52.167.17.97 Microsoft Corporation
+2 52.114.132.73 Microsoft Corporation
+3 52.114.132.22 Microsoft Corporation
+4 192.16.58.8 MCI Communications Services, Inc. d/b/a Verizon Business
+5 40.126.7.32 Microsoft Corporation
+6 52.162.219.173 Microsoft Corporation
+7 8.248.161.254 Level 3 Parent, LLC
+8 52.114.128.69 Microsoft Corporation
+9 192.124.249.23 Sucuri
+10 104.97.85.11 Akamai Technologies, Inc.
+11 52.114.74.44 Microsoft Corporation
+12 52.114.133.61 Microsoft Corporation
+13 52.114.128.43 Microsoft Corporation
+14 52.114.75.78 Microsoft Corporation
+15 138.91.140.216 Microsoft Corp
+16 52.114.128.75 Microsoft Corporation
+17 104.97.85.54 Akamai Technologies, Inc.
+18 52.114.32.6 Microsoft Corporation
+19 168.62.58.130 Microsoft Corp
+20 192.124.249.22 Sucuri
+21 52.114.74.45 Microsoft Corporation
+22 52.114.159.33 Microsoft Corporation
+23 8.248.163.254 Level 3 Parent, LLC
+24 52.114.159.112 Microsoft Corporation
